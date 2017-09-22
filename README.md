@@ -1,6 +1,6 @@
 # isRotation
 
-Provides a function isRotation(s1, s2) that returns true if one string is a rotation of another.  For example:
+Provides a function `isRotation(s1, s2)` that returns true if one string is a rotation of another.  For example:
 
 "phonetele" is a rotation of "telephone"
 
